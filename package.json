@@ -1,14 +1,14 @@
 {
-  "name": "IMASHNIDUSHA",
+  "name": "QueenAlexa",
   "version": "7.3.6",
-  "description": "Z is the Modified Version of WhatsAsena, Made By @Z-BOT999 with Baileys.",
-  "main": "./IMASHNIDUSHA/bot.js",
+  "description": "Alexa is the Modified Version of WhatsAsena, Made By @Z-BOT999 with Baileys.",
+  "main": "./Queen-01/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Z-BOT999/IMASH-Z-BOT-2.git"
+    "url": "git+https://github.com/queenalexa2/Queen-01.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "imash nidusha",
-  "developer": "@TOXIC-DEVIL / @Z-BOT999",
+  "author": "En-Cuzier",
+  "developer": "@TOXIC-DEVIL / QueenAlexa",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Z-BOT999/IMASH-Z-BOT-2/issues"
+    "url": "https://github.com/queenalexa2/Queen-01/issues"
   },
-  "homepage": "https://github.com/Z-BOT999/IMASH-Z-BOT-2#readme",
+  "homepage": "https://github.com/queenalexa2/Queen-01#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.2",
     "@lh2020/speedtest-net": "^2.1.1",
