@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "👾 *Z BOT*:  ```" + msg + "```"
+    return "👾 *QueenAlexa*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "👾 *Z BOT*:  ```" + msg + "```"
+    return "👾 *QueenAlexa*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "👾 *Z BOT*:  ```" + msg + "```"
+    return "👾 *QueenAlexa*:  ```" + msg + "```"
 }
 
 
