@@ -1,18 +1,18 @@
 <div align="center">
 <details>
-    <summary><b>ඔබාපිය මේක බොට්ව හදන්න ඕන්නම්</b></summary>
+    <summary><b>Click this one</b></summary>
     
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3EF76A&lines=THIS+IS+ZED+BOT;THIS+BOT+OWNER+IS+IMASH+NIDUSHA)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3EF76A&lines=THIS+IS+ALEXA+BOT;THIS+BOT+OWNER+IS+EN+CUZIER)](https://git.io/typing-svg)
 <div align="center">
 
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=771323434+-+WHATSAPP;MY+NUMBER+)](https://git.io/typing-svg)<div align="center">
  </a>
 </p>
 
- <h1 align="center"><b> Z BOT V2 -CREATE BY IMASH NIDUSHA  </b></h1>
+ <h1 align="center"><b> QUEEN ALRXA V1   </b></h1>
  
-![logo](https://www.linkpicture.com/q/IMG-20210930-WA0003_8.jpg)
+![logo](https://telegra.ph/file/37fe7ab19f092a3604e32.jpg)
 
 
  
