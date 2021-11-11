@@ -13,7 +13,7 @@ class StringSession {
     }
 
     deCrypt(string = undefined) {
-        if ('IMASH_SESSION' in process.env && string === undefined) {
+        if ('ALEXA_SESSION' in process.env && string === undefined) {
             string = process.env.STRING_SESSION;
         } else if (string !== undefined) {
             if (fs.existsSync(string)) {
@@ -28,7 +28,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'IMASH:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'ALEXA:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
