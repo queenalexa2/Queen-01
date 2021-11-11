@@ -12,7 +12,7 @@ const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./imashbase/');
+const {Message, StringSession, Image, Video} = require('./ALEXA/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const axios = require('axios');
@@ -100,17 +100,17 @@ async function whatsAsena () {
         console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 
-${chalk.blue.italic('Z BOT Connecting to WhatsApp🥵...')}`);
+${chalk.blue.italic('💻 ALEXA Connecting to WhatsApp...')}`);
     });
     
 
     conn.on('open', async () => {
         console.log(
-            chalk.green.bold('Z BOT Login successful🥵!')
+            chalk.green.bold('🛠 Login successful!')
         );
 
         console.log(
-            chalk.blueBright.italic('Installing external plugins🥵...')
+            chalk.blueBright.italic('🔰 Installing external plugins...')
         );
 
         var plugins = await plugindb.PluginDB.findAll();
@@ -126,7 +126,7 @@ ${chalk.blue.italic('Z BOT Connecting to WhatsApp🥵...')}`);
         });
 
         console.log(
-            chalk.blueBright.italic('Z BOT plugin Installing...')
+            chalk.blueBright.italic('✅ ALEXA plugin Installing...')
         );
 
         fs.readdirSync('./plugins').forEach(plugin => {
@@ -136,7 +136,7 @@ ${chalk.blue.italic('Z BOT Connecting to WhatsApp🥵...')}`);
         });
 
         console.log(
-            chalk.green.bold('Z BOT IS working🥰 Created by imash!')
+            chalk.green.bold('🥳 QUEEN ALEXA active now !')
         );
     });
     
