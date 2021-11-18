@@ -1,8 +1,8 @@
 {
 
-    "name": "Z BOT V2",
+    "name": "QUEEN ALEXA",
 
-    "description": "Z BOT is the Modified Version of WhatsAsena, Made By @Z-BOT999 with Baileys.",
+    "description": "ALEXA is the Modified Version of WhatsAsena, Made By @Z-BOT999 with Baileys.",
 
     "logo": "https://www.linkpicture.com/q/IMG-20210926-WA0004.jpg",
 
@@ -18,9 +18,9 @@
 
     "env": {
 
-        "IMASH_SESSION": {
+        "ALEXA_SESSION": {
 
-            "description": "Type here yours IMASH Session.",
+            "description": "Type here yours ALEXA Session.",
 
             "required": true
 
